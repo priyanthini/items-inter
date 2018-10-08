@@ -34,3 +34,22 @@ A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\Blu
 A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
 A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
 A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe.config
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.exe
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.pdb
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb.mdf
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb_log.ldf
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.pdb
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.dll
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmcustomer.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmlogin.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmmktng.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmsupplier.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Item.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
+C:\Users\PC\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache

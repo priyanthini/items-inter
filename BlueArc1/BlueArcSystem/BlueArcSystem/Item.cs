@@ -21,5 +21,10 @@ namespace BlueArcSystem
         {
 
         }
+
+        private void Item_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
