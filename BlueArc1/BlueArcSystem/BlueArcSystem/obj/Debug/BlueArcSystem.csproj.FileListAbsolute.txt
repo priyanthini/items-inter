@@ -1,0 +1,36 @@
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe.config
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.pdb
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csprojResolveAssemblyReference.cache
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmlogin.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Properties.Resources.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.exe
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.pdb
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmmktng.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb.mdf
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb_log.ldf
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmcustomer.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmsupplier.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.dll
+H:\BlueArc\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.Fonts.dll
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
+H:\BlueArc\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe.config
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.exe
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.pdb
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb.mdf
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcDb_log.ldf
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.pdb
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.dll
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\MetroFramework.Fonts.dll
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csprojResolveAssemblyReference.cache
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmcustomer.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmlogin.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmmktng.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmsupplier.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Properties.Resources.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
+A:\Notes\IS2002 Group Project\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache
