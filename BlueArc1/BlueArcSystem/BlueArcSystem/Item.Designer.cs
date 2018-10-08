@@ -73,18 +73,18 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(158, 198);
+            this.button1.Location = new System.Drawing.Point(161, 198);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(90, 33);
             this.button1.TabIndex = 4;
             this.button1.Text = "submit";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(340, 197);
+            this.button2.Location = new System.Drawing.Point(340, 198);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(88, 33);
             this.button2.TabIndex = 5;
             this.button2.Text = "reset";
             this.button2.UseVisualStyleBackColor = true;
