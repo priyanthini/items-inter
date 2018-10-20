@@ -72,3 +72,6 @@ C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\Blue
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe.config
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.exe
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.pdb
