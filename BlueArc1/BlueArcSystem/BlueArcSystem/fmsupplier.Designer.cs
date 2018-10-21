@@ -61,6 +61,52 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnSSsearch = new System.Windows.Forms.Button();
             this.btnSSclear = new System.Windows.Forms.Button();
+            this.tbSE = new MetroFramework.Controls.MetroTabPage();
+            this.dgvSE = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dtpSEregdt = new System.Windows.Forms.DateTimePicker();
+            this.txtSEtel = new System.Windows.Forms.TextBox();
+            this.txtSEexpe = new System.Windows.Forms.TextBox();
+            this.txtSEtransport = new System.Windows.Forms.TextBox();
+            this.txtSEBregno = new System.Windows.Forms.TextBox();
+            this.txtSEcredit = new System.Windows.Forms.TextBox();
+            this.txtSEBaddress = new System.Windows.Forms.TextBox();
+            this.label94 = new System.Windows.Forms.Label();
+            this.label100 = new System.Windows.Forms.Label();
+            this.label93 = new System.Windows.Forms.Label();
+            this.label99 = new System.Windows.Forms.Label();
+            this.label92 = new System.Windows.Forms.Label();
+            this.label98 = new System.Windows.Forms.Label();
+            this.label91 = new System.Windows.Forms.Label();
+            this.txtSEcontactname = new System.Windows.Forms.TextBox();
+            this.txtSEBname = new System.Windows.Forms.TextBox();
+            this.txtSEemail = new System.Windows.Forms.TextBox();
+            this.txtSEfax = new System.Windows.Forms.TextBox();
+            this.txtSEname = new System.Windows.Forms.TextBox();
+            this.label97 = new System.Windows.Forms.Label();
+            this.txtSEid = new System.Windows.Forms.TextBox();
+            this.label96 = new System.Windows.Forms.Label();
+            this.label90 = new System.Windows.Forms.Label();
+            this.label95 = new System.Windows.Forms.Label();
+            this.label89 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.btnSEld = new System.Windows.Forms.Button();
+            this.btnSEsearch = new System.Windows.Forms.Button();
+            this.btnSEedit = new System.Windows.Forms.Button();
+            this.btnSEclear = new System.Windows.Forms.Button();
             this.tbSD = new MetroFramework.Controls.MetroTabPage();
             this.dgvSD = new System.Windows.Forms.DataGridView();
             this.suppIdDataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -135,64 +181,18 @@
             this.label6 = new System.Windows.Forms.Label();
             this.btnSAadd = new System.Windows.Forms.Button();
             this.btnSAclear = new System.Windows.Forms.Button();
-            this.tbSE = new MetroFramework.Controls.MetroTabPage();
-            this.dgvSE = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dtpSEregdt = new System.Windows.Forms.DateTimePicker();
-            this.txtSEtel = new System.Windows.Forms.TextBox();
-            this.txtSEexpe = new System.Windows.Forms.TextBox();
-            this.txtSEtransport = new System.Windows.Forms.TextBox();
-            this.txtSEBregno = new System.Windows.Forms.TextBox();
-            this.txtSEcredit = new System.Windows.Forms.TextBox();
-            this.txtSEBaddress = new System.Windows.Forms.TextBox();
-            this.label94 = new System.Windows.Forms.Label();
-            this.label100 = new System.Windows.Forms.Label();
-            this.label93 = new System.Windows.Forms.Label();
-            this.label99 = new System.Windows.Forms.Label();
-            this.label92 = new System.Windows.Forms.Label();
-            this.label98 = new System.Windows.Forms.Label();
-            this.label91 = new System.Windows.Forms.Label();
-            this.txtSEcontactname = new System.Windows.Forms.TextBox();
-            this.txtSEBname = new System.Windows.Forms.TextBox();
-            this.txtSEemail = new System.Windows.Forms.TextBox();
-            this.txtSEfax = new System.Windows.Forms.TextBox();
-            this.txtSEname = new System.Windows.Forms.TextBox();
-            this.label97 = new System.Windows.Forms.Label();
-            this.txtSEid = new System.Windows.Forms.TextBox();
-            this.label96 = new System.Windows.Forms.Label();
-            this.label90 = new System.Windows.Forms.Label();
-            this.label95 = new System.Windows.Forms.Label();
-            this.label89 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.btnSEld = new System.Windows.Forms.Button();
-            this.btnSEsearch = new System.Windows.Forms.Button();
-            this.btnSEedit = new System.Windows.Forms.Button();
-            this.btnSEclear = new System.Windows.Forms.Button();
             this.ucleftpnl1 = new BlueArcSystem.ucleftpnl();
             ((System.ComponentModel.ISupportInitialize)(this.supplierBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.blueArcDbDataSet1)).BeginInit();
             this.metroTabControl1.SuspendLayout();
             this.tbSS.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSS)).BeginInit();
+            this.tbSE.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSE)).BeginInit();
             this.tbSD.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSD)).BeginInit();
             this.tbSA.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSA)).BeginInit();
-            this.tbSE.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvSE)).BeginInit();
             this.SuspendLayout();
             // 
             // supplierBindingSource
@@ -212,9 +212,9 @@
             // metroTabControl1
             // 
             this.metroTabControl1.Controls.Add(this.tbSS);
+            this.metroTabControl1.Controls.Add(this.tbSA);
             this.metroTabControl1.Controls.Add(this.tbSE);
             this.metroTabControl1.Controls.Add(this.tbSD);
-            this.metroTabControl1.Controls.Add(this.tbSA);
             this.metroTabControl1.Dock = System.Windows.Forms.DockStyle.Right;
             this.metroTabControl1.Location = new System.Drawing.Point(27, 74);
             this.metroTabControl1.Margin = new System.Windows.Forms.Padding(4);
@@ -485,6 +485,474 @@
             this.btnSSclear.Text = "Clear";
             this.btnSSclear.UseVisualStyleBackColor = true;
             this.btnSSclear.Click += new System.EventHandler(this.btnSSclear_Click);
+            // 
+            // tbSE
+            // 
+            this.tbSE.Controls.Add(this.dgvSE);
+            this.tbSE.Controls.Add(this.dtpSEregdt);
+            this.tbSE.Controls.Add(this.txtSEtel);
+            this.tbSE.Controls.Add(this.txtSEexpe);
+            this.tbSE.Controls.Add(this.txtSEtransport);
+            this.tbSE.Controls.Add(this.txtSEBregno);
+            this.tbSE.Controls.Add(this.txtSEcredit);
+            this.tbSE.Controls.Add(this.txtSEBaddress);
+            this.tbSE.Controls.Add(this.label94);
+            this.tbSE.Controls.Add(this.label100);
+            this.tbSE.Controls.Add(this.label93);
+            this.tbSE.Controls.Add(this.label99);
+            this.tbSE.Controls.Add(this.label92);
+            this.tbSE.Controls.Add(this.label98);
+            this.tbSE.Controls.Add(this.label91);
+            this.tbSE.Controls.Add(this.txtSEcontactname);
+            this.tbSE.Controls.Add(this.txtSEBname);
+            this.tbSE.Controls.Add(this.txtSEemail);
+            this.tbSE.Controls.Add(this.txtSEfax);
+            this.tbSE.Controls.Add(this.txtSEname);
+            this.tbSE.Controls.Add(this.label97);
+            this.tbSE.Controls.Add(this.txtSEid);
+            this.tbSE.Controls.Add(this.label96);
+            this.tbSE.Controls.Add(this.label90);
+            this.tbSE.Controls.Add(this.label95);
+            this.tbSE.Controls.Add(this.label89);
+            this.tbSE.Controls.Add(this.label32);
+            this.tbSE.Controls.Add(this.btnSEld);
+            this.tbSE.Controls.Add(this.btnSEsearch);
+            this.tbSE.Controls.Add(this.btnSEedit);
+            this.tbSE.Controls.Add(this.btnSEclear);
+            this.tbSE.HorizontalScrollbarBarColor = true;
+            this.tbSE.HorizontalScrollbarSize = 12;
+            this.tbSE.Location = new System.Drawing.Point(4, 39);
+            this.tbSE.Margin = new System.Windows.Forms.Padding(4);
+            this.tbSE.Name = "tbSE";
+            this.tbSE.Size = new System.Drawing.Size(1605, 672);
+            this.tbSE.TabIndex = 2;
+            this.tbSE.Text = "Edit Supplier";
+            this.tbSE.VerticalScrollbarBarColor = true;
+            this.tbSE.VerticalScrollbarSize = 13;
+            // 
+            // dgvSE
+            // 
+            this.dgvSE.AllowUserToAddRows = false;
+            this.dgvSE.AllowUserToDeleteRows = false;
+            this.dgvSE.AutoGenerateColumns = false;
+            this.dgvSE.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.dgvSE.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvSE.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dataGridViewTextBoxColumn1,
+            this.dataGridViewTextBoxColumn2,
+            this.dataGridViewTextBoxColumn3,
+            this.dataGridViewTextBoxColumn4,
+            this.dataGridViewTextBoxColumn5,
+            this.dataGridViewTextBoxColumn6,
+            this.dataGridViewTextBoxColumn7,
+            this.dataGridViewTextBoxColumn8,
+            this.dataGridViewTextBoxColumn9,
+            this.dataGridViewTextBoxColumn10,
+            this.dataGridViewTextBoxColumn11,
+            this.dataGridViewTextBoxColumn12,
+            this.dataGridViewTextBoxColumn13,
+            this.dataGridViewTextBoxColumn14});
+            this.dgvSE.DataSource = this.supplierBindingSource;
+            this.dgvSE.Location = new System.Drawing.Point(8, 271);
+            this.dgvSE.Margin = new System.Windows.Forms.Padding(4);
+            this.dgvSE.Name = "dgvSE";
+            this.dgvSE.ReadOnly = true;
+            this.dgvSE.Size = new System.Drawing.Size(1267, 407);
+            this.dgvSE.TabIndex = 96;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.DataPropertyName = "Supp_Id";
+            this.dataGridViewTextBoxColumn1.HeaderText = "Supplier ID";
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.dataGridViewTextBoxColumn1.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.DataPropertyName = "Supp_Name";
+            this.dataGridViewTextBoxColumn2.HeaderText = "Name";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.dataGridViewTextBoxColumn2.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.DataPropertyName = "Supp_BusinessName";
+            this.dataGridViewTextBoxColumn3.HeaderText = "Business Name";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            this.dataGridViewTextBoxColumn3.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.DataPropertyName = "Supp_BusinessAddress";
+            this.dataGridViewTextBoxColumn4.HeaderText = "Business Address";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            this.dataGridViewTextBoxColumn4.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.DataPropertyName = "Supp_BusinessRegNo";
+            this.dataGridViewTextBoxColumn5.HeaderText = "B.Registration No";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            this.dataGridViewTextBoxColumn5.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn6
+            // 
+            this.dataGridViewTextBoxColumn6.DataPropertyName = "Supp_BusinessRegDate";
+            this.dataGridViewTextBoxColumn6.HeaderText = "B.Registration Date";
+            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
+            this.dataGridViewTextBoxColumn6.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn7
+            // 
+            this.dataGridViewTextBoxColumn7.DataPropertyName = "Supp_Tel";
+            this.dataGridViewTextBoxColumn7.HeaderText = "Telephone";
+            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
+            this.dataGridViewTextBoxColumn7.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn8
+            // 
+            this.dataGridViewTextBoxColumn8.DataPropertyName = "Supp_Fax";
+            this.dataGridViewTextBoxColumn8.HeaderText = "Fax";
+            this.dataGridViewTextBoxColumn8.Name = "dataGridViewTextBoxColumn8";
+            this.dataGridViewTextBoxColumn8.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn9
+            // 
+            this.dataGridViewTextBoxColumn9.DataPropertyName = "Supp_Email";
+            this.dataGridViewTextBoxColumn9.HeaderText = "E-mail";
+            this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
+            this.dataGridViewTextBoxColumn9.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn10
+            // 
+            this.dataGridViewTextBoxColumn10.DataPropertyName = "Supp_ContactName";
+            this.dataGridViewTextBoxColumn10.HeaderText = "Contact Name";
+            this.dataGridViewTextBoxColumn10.Name = "dataGridViewTextBoxColumn10";
+            this.dataGridViewTextBoxColumn10.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn11
+            // 
+            this.dataGridViewTextBoxColumn11.DataPropertyName = "Supp_CrdtCondition";
+            this.dataGridViewTextBoxColumn11.HeaderText = "Credit Condition";
+            this.dataGridViewTextBoxColumn11.Name = "dataGridViewTextBoxColumn11";
+            this.dataGridViewTextBoxColumn11.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn12
+            // 
+            this.dataGridViewTextBoxColumn12.DataPropertyName = "Supp_Transport";
+            this.dataGridViewTextBoxColumn12.HeaderText = "Transport Facilities";
+            this.dataGridViewTextBoxColumn12.Name = "dataGridViewTextBoxColumn12";
+            this.dataGridViewTextBoxColumn12.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn13
+            // 
+            this.dataGridViewTextBoxColumn13.DataPropertyName = "Supp_Experience";
+            this.dataGridViewTextBoxColumn13.HeaderText = "Experience";
+            this.dataGridViewTextBoxColumn13.Name = "dataGridViewTextBoxColumn13";
+            this.dataGridViewTextBoxColumn13.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn14
+            // 
+            this.dataGridViewTextBoxColumn14.DataPropertyName = "Supp_RegDate";
+            this.dataGridViewTextBoxColumn14.HeaderText = "Registered Date";
+            this.dataGridViewTextBoxColumn14.Name = "dataGridViewTextBoxColumn14";
+            this.dataGridViewTextBoxColumn14.ReadOnly = true;
+            // 
+            // dtpSEregdt
+            // 
+            this.dtpSEregdt.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpSEregdt.Location = new System.Drawing.Point(132, 180);
+            this.dtpSEregdt.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpSEregdt.Name = "dtpSEregdt";
+            this.dtpSEregdt.Size = new System.Drawing.Size(399, 22);
+            this.dtpSEregdt.TabIndex = 95;
+            // 
+            // txtSEtel
+            // 
+            this.txtSEtel.Location = new System.Drawing.Point(132, 212);
+            this.txtSEtel.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEtel.Name = "txtSEtel";
+            this.txtSEtel.Size = new System.Drawing.Size(399, 22);
+            this.txtSEtel.TabIndex = 80;
+            // 
+            // txtSEexpe
+            // 
+            this.txtSEexpe.Location = new System.Drawing.Point(669, 180);
+            this.txtSEexpe.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEexpe.Multiline = true;
+            this.txtSEexpe.Name = "txtSEexpe";
+            this.txtSEexpe.Size = new System.Drawing.Size(399, 24);
+            this.txtSEexpe.TabIndex = 81;
+            // 
+            // txtSEtransport
+            // 
+            this.txtSEtransport.Location = new System.Drawing.Point(669, 148);
+            this.txtSEtransport.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEtransport.Multiline = true;
+            this.txtSEtransport.Name = "txtSEtransport";
+            this.txtSEtransport.Size = new System.Drawing.Size(399, 24);
+            this.txtSEtransport.TabIndex = 78;
+            // 
+            // txtSEBregno
+            // 
+            this.txtSEBregno.Location = new System.Drawing.Point(132, 148);
+            this.txtSEBregno.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEBregno.Name = "txtSEBregno";
+            this.txtSEBregno.Size = new System.Drawing.Size(399, 22);
+            this.txtSEBregno.TabIndex = 79;
+            // 
+            // txtSEcredit
+            // 
+            this.txtSEcredit.Location = new System.Drawing.Point(669, 116);
+            this.txtSEcredit.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEcredit.Multiline = true;
+            this.txtSEcredit.Name = "txtSEcredit";
+            this.txtSEcredit.Size = new System.Drawing.Size(399, 24);
+            this.txtSEcredit.TabIndex = 76;
+            // 
+            // txtSEBaddress
+            // 
+            this.txtSEBaddress.Location = new System.Drawing.Point(132, 116);
+            this.txtSEBaddress.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEBaddress.Multiline = true;
+            this.txtSEBaddress.Name = "txtSEBaddress";
+            this.txtSEBaddress.Size = new System.Drawing.Size(399, 24);
+            this.txtSEBaddress.TabIndex = 77;
+            // 
+            // label94
+            // 
+            this.label94.AutoSize = true;
+            this.label94.BackColor = System.Drawing.Color.Transparent;
+            this.label94.Location = new System.Drawing.Point(4, 220);
+            this.label94.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label94.Name = "label94";
+            this.label94.Size = new System.Drawing.Size(76, 17);
+            this.label94.TabIndex = 90;
+            this.label94.Text = "Telephone";
+            // 
+            // label100
+            // 
+            this.label100.AutoSize = true;
+            this.label100.BackColor = System.Drawing.Color.Transparent;
+            this.label100.Location = new System.Drawing.Point(541, 188);
+            this.label100.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label100.Name = "label100";
+            this.label100.Size = new System.Drawing.Size(78, 17);
+            this.label100.TabIndex = 89;
+            this.label100.Text = "Experience";
+            // 
+            // label93
+            // 
+            this.label93.AutoSize = true;
+            this.label93.BackColor = System.Drawing.Color.Transparent;
+            this.label93.Location = new System.Drawing.Point(4, 188);
+            this.label93.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label93.Name = "label93";
+            this.label93.Size = new System.Drawing.Size(122, 17);
+            this.label93.TabIndex = 88;
+            this.label93.Text = "Registration Date ";
+            // 
+            // label99
+            // 
+            this.label99.AutoSize = true;
+            this.label99.BackColor = System.Drawing.Color.Transparent;
+            this.label99.Location = new System.Drawing.Point(541, 156);
+            this.label99.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label99.Name = "label99";
+            this.label99.Size = new System.Drawing.Size(128, 17);
+            this.label99.TabIndex = 91;
+            this.label99.Text = "Transport Facilities";
+            // 
+            // label92
+            // 
+            this.label92.AutoSize = true;
+            this.label92.BackColor = System.Drawing.Color.Transparent;
+            this.label92.Location = new System.Drawing.Point(4, 156);
+            this.label92.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label92.Name = "label92";
+            this.label92.Size = new System.Drawing.Size(106, 17);
+            this.label92.TabIndex = 92;
+            this.label92.Text = "Registration No";
+            // 
+            // label98
+            // 
+            this.label98.AutoSize = true;
+            this.label98.BackColor = System.Drawing.Color.Transparent;
+            this.label98.Location = new System.Drawing.Point(541, 124);
+            this.label98.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label98.Name = "label98";
+            this.label98.Size = new System.Drawing.Size(115, 17);
+            this.label98.TabIndex = 93;
+            this.label98.Text = "Credit Conditions";
+            // 
+            // label91
+            // 
+            this.label91.AutoSize = true;
+            this.label91.BackColor = System.Drawing.Color.Transparent;
+            this.label91.Location = new System.Drawing.Point(4, 124);
+            this.label91.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label91.Name = "label91";
+            this.label91.Size = new System.Drawing.Size(121, 17);
+            this.label91.TabIndex = 94;
+            this.label91.Text = "Business Address";
+            // 
+            // txtSEcontactname
+            // 
+            this.txtSEcontactname.Location = new System.Drawing.Point(669, 84);
+            this.txtSEcontactname.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEcontactname.Name = "txtSEcontactname";
+            this.txtSEcontactname.Size = new System.Drawing.Size(399, 22);
+            this.txtSEcontactname.TabIndex = 74;
+            // 
+            // txtSEBname
+            // 
+            this.txtSEBname.Location = new System.Drawing.Point(132, 84);
+            this.txtSEBname.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEBname.Name = "txtSEBname";
+            this.txtSEBname.Size = new System.Drawing.Size(399, 22);
+            this.txtSEBname.TabIndex = 75;
+            // 
+            // txtSEemail
+            // 
+            this.txtSEemail.Location = new System.Drawing.Point(669, 52);
+            this.txtSEemail.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEemail.Name = "txtSEemail";
+            this.txtSEemail.Size = new System.Drawing.Size(399, 22);
+            this.txtSEemail.TabIndex = 73;
+            // 
+            // txtSEfax
+            // 
+            this.txtSEfax.Location = new System.Drawing.Point(669, 20);
+            this.txtSEfax.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEfax.Name = "txtSEfax";
+            this.txtSEfax.Size = new System.Drawing.Size(399, 22);
+            this.txtSEfax.TabIndex = 71;
+            // 
+            // txtSEname
+            // 
+            this.txtSEname.Location = new System.Drawing.Point(132, 52);
+            this.txtSEname.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEname.Name = "txtSEname";
+            this.txtSEname.Size = new System.Drawing.Size(399, 22);
+            this.txtSEname.TabIndex = 72;
+            // 
+            // label97
+            // 
+            this.label97.AutoSize = true;
+            this.label97.BackColor = System.Drawing.Color.Transparent;
+            this.label97.Location = new System.Drawing.Point(541, 92);
+            this.label97.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label97.Name = "label97";
+            this.label97.Size = new System.Drawing.Size(97, 17);
+            this.label97.TabIndex = 83;
+            this.label97.Text = "Contact Name";
+            // 
+            // txtSEid
+            // 
+            this.txtSEid.Location = new System.Drawing.Point(132, 20);
+            this.txtSEid.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSEid.Name = "txtSEid";
+            this.txtSEid.Size = new System.Drawing.Size(399, 22);
+            this.txtSEid.TabIndex = 70;
+            // 
+            // label96
+            // 
+            this.label96.AutoSize = true;
+            this.label96.BackColor = System.Drawing.Color.Transparent;
+            this.label96.Location = new System.Drawing.Point(541, 60);
+            this.label96.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label96.Name = "label96";
+            this.label96.Size = new System.Drawing.Size(47, 17);
+            this.label96.TabIndex = 84;
+            this.label96.Text = "E-mail";
+            // 
+            // label90
+            // 
+            this.label90.AutoSize = true;
+            this.label90.BackColor = System.Drawing.Color.Transparent;
+            this.label90.Location = new System.Drawing.Point(4, 92);
+            this.label90.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label90.Name = "label90";
+            this.label90.Size = new System.Drawing.Size(106, 17);
+            this.label90.TabIndex = 82;
+            this.label90.Text = "Business Name";
+            // 
+            // label95
+            // 
+            this.label95.AutoSize = true;
+            this.label95.BackColor = System.Drawing.Color.Transparent;
+            this.label95.Location = new System.Drawing.Point(541, 28);
+            this.label95.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label95.Name = "label95";
+            this.label95.Size = new System.Drawing.Size(30, 17);
+            this.label95.TabIndex = 87;
+            this.label95.Text = "Fax";
+            // 
+            // label89
+            // 
+            this.label89.AutoSize = true;
+            this.label89.BackColor = System.Drawing.Color.Transparent;
+            this.label89.Location = new System.Drawing.Point(4, 60);
+            this.label89.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label89.Name = "label89";
+            this.label89.Size = new System.Drawing.Size(45, 17);
+            this.label89.TabIndex = 85;
+            this.label89.Text = "Name";
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.BackColor = System.Drawing.Color.Transparent;
+            this.label32.Location = new System.Drawing.Point(4, 28);
+            this.label32.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(77, 17);
+            this.label32.TabIndex = 86;
+            this.label32.Text = "Supplier ID";
+            // 
+            // btnSEld
+            // 
+            this.btnSEld.Location = new System.Drawing.Point(1175, 226);
+            this.btnSEld.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSEld.Name = "btnSEld";
+            this.btnSEld.Size = new System.Drawing.Size(100, 31);
+            this.btnSEld.TabIndex = 69;
+            this.btnSEld.Text = "Load All Data";
+            this.btnSEld.UseVisualStyleBackColor = true;
+            this.btnSEld.Click += new System.EventHandler(this.btnSEld_Click);
+            // 
+            // btnSEsearch
+            // 
+            this.btnSEsearch.Location = new System.Drawing.Point(1077, 20);
+            this.btnSEsearch.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSEsearch.Name = "btnSEsearch";
+            this.btnSEsearch.Size = new System.Drawing.Size(200, 62);
+            this.btnSEsearch.TabIndex = 66;
+            this.btnSEsearch.Text = "Search Supplier";
+            this.btnSEsearch.UseVisualStyleBackColor = true;
+            this.btnSEsearch.Click += new System.EventHandler(this.btnSEsearch_Click);
+            // 
+            // btnSEedit
+            // 
+            this.btnSEedit.Location = new System.Drawing.Point(1077, 158);
+            this.btnSEedit.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSEedit.Name = "btnSEedit";
+            this.btnSEedit.Size = new System.Drawing.Size(200, 62);
+            this.btnSEedit.TabIndex = 67;
+            this.btnSEedit.Text = "Edit Supplier";
+            this.btnSEedit.UseVisualStyleBackColor = true;
+            this.btnSEedit.Click += new System.EventHandler(this.btnSEedit_Click);
+            // 
+            // btnSEclear
+            // 
+            this.btnSEclear.Location = new System.Drawing.Point(1077, 89);
+            this.btnSEclear.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSEclear.Name = "btnSEclear";
+            this.btnSEclear.Size = new System.Drawing.Size(200, 62);
+            this.btnSEclear.TabIndex = 68;
+            this.btnSEclear.Text = "Clear";
+            this.btnSEclear.UseVisualStyleBackColor = true;
+            this.btnSEclear.Click += new System.EventHandler(this.btnSEclear_Click);
             // 
             // tbSD
             // 
@@ -1227,474 +1695,6 @@
             this.btnSAclear.UseVisualStyleBackColor = true;
             this.btnSAclear.Click += new System.EventHandler(this.btnSAclear_Click);
             // 
-            // tbSE
-            // 
-            this.tbSE.Controls.Add(this.dgvSE);
-            this.tbSE.Controls.Add(this.dtpSEregdt);
-            this.tbSE.Controls.Add(this.txtSEtel);
-            this.tbSE.Controls.Add(this.txtSEexpe);
-            this.tbSE.Controls.Add(this.txtSEtransport);
-            this.tbSE.Controls.Add(this.txtSEBregno);
-            this.tbSE.Controls.Add(this.txtSEcredit);
-            this.tbSE.Controls.Add(this.txtSEBaddress);
-            this.tbSE.Controls.Add(this.label94);
-            this.tbSE.Controls.Add(this.label100);
-            this.tbSE.Controls.Add(this.label93);
-            this.tbSE.Controls.Add(this.label99);
-            this.tbSE.Controls.Add(this.label92);
-            this.tbSE.Controls.Add(this.label98);
-            this.tbSE.Controls.Add(this.label91);
-            this.tbSE.Controls.Add(this.txtSEcontactname);
-            this.tbSE.Controls.Add(this.txtSEBname);
-            this.tbSE.Controls.Add(this.txtSEemail);
-            this.tbSE.Controls.Add(this.txtSEfax);
-            this.tbSE.Controls.Add(this.txtSEname);
-            this.tbSE.Controls.Add(this.label97);
-            this.tbSE.Controls.Add(this.txtSEid);
-            this.tbSE.Controls.Add(this.label96);
-            this.tbSE.Controls.Add(this.label90);
-            this.tbSE.Controls.Add(this.label95);
-            this.tbSE.Controls.Add(this.label89);
-            this.tbSE.Controls.Add(this.label32);
-            this.tbSE.Controls.Add(this.btnSEld);
-            this.tbSE.Controls.Add(this.btnSEsearch);
-            this.tbSE.Controls.Add(this.btnSEedit);
-            this.tbSE.Controls.Add(this.btnSEclear);
-            this.tbSE.HorizontalScrollbarBarColor = true;
-            this.tbSE.HorizontalScrollbarSize = 12;
-            this.tbSE.Location = new System.Drawing.Point(4, 39);
-            this.tbSE.Margin = new System.Windows.Forms.Padding(4);
-            this.tbSE.Name = "tbSE";
-            this.tbSE.Size = new System.Drawing.Size(1605, 672);
-            this.tbSE.TabIndex = 2;
-            this.tbSE.Text = "Edit Supplier";
-            this.tbSE.VerticalScrollbarBarColor = true;
-            this.tbSE.VerticalScrollbarSize = 13;
-            // 
-            // dgvSE
-            // 
-            this.dgvSE.AllowUserToAddRows = false;
-            this.dgvSE.AllowUserToDeleteRows = false;
-            this.dgvSE.AutoGenerateColumns = false;
-            this.dgvSE.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.dgvSE.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSE.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn1,
-            this.dataGridViewTextBoxColumn2,
-            this.dataGridViewTextBoxColumn3,
-            this.dataGridViewTextBoxColumn4,
-            this.dataGridViewTextBoxColumn5,
-            this.dataGridViewTextBoxColumn6,
-            this.dataGridViewTextBoxColumn7,
-            this.dataGridViewTextBoxColumn8,
-            this.dataGridViewTextBoxColumn9,
-            this.dataGridViewTextBoxColumn10,
-            this.dataGridViewTextBoxColumn11,
-            this.dataGridViewTextBoxColumn12,
-            this.dataGridViewTextBoxColumn13,
-            this.dataGridViewTextBoxColumn14});
-            this.dgvSE.DataSource = this.supplierBindingSource;
-            this.dgvSE.Location = new System.Drawing.Point(8, 271);
-            this.dgvSE.Margin = new System.Windows.Forms.Padding(4);
-            this.dgvSE.Name = "dgvSE";
-            this.dgvSE.ReadOnly = true;
-            this.dgvSE.Size = new System.Drawing.Size(1267, 407);
-            this.dgvSE.TabIndex = 96;
-            // 
-            // dataGridViewTextBoxColumn1
-            // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "Supp_Id";
-            this.dataGridViewTextBoxColumn1.HeaderText = "Supplier ID";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "Supp_Name";
-            this.dataGridViewTextBoxColumn2.HeaderText = "Name";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            this.dataGridViewTextBoxColumn2.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "Supp_BusinessName";
-            this.dataGridViewTextBoxColumn3.HeaderText = "Business Name";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "Supp_BusinessAddress";
-            this.dataGridViewTextBoxColumn4.HeaderText = "Business Address";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "Supp_BusinessRegNo";
-            this.dataGridViewTextBoxColumn5.HeaderText = "B.Registration No";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn6
-            // 
-            this.dataGridViewTextBoxColumn6.DataPropertyName = "Supp_BusinessRegDate";
-            this.dataGridViewTextBoxColumn6.HeaderText = "B.Registration Date";
-            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
-            this.dataGridViewTextBoxColumn6.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn7
-            // 
-            this.dataGridViewTextBoxColumn7.DataPropertyName = "Supp_Tel";
-            this.dataGridViewTextBoxColumn7.HeaderText = "Telephone";
-            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
-            this.dataGridViewTextBoxColumn7.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn8
-            // 
-            this.dataGridViewTextBoxColumn8.DataPropertyName = "Supp_Fax";
-            this.dataGridViewTextBoxColumn8.HeaderText = "Fax";
-            this.dataGridViewTextBoxColumn8.Name = "dataGridViewTextBoxColumn8";
-            this.dataGridViewTextBoxColumn8.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn9
-            // 
-            this.dataGridViewTextBoxColumn9.DataPropertyName = "Supp_Email";
-            this.dataGridViewTextBoxColumn9.HeaderText = "E-mail";
-            this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
-            this.dataGridViewTextBoxColumn9.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn10
-            // 
-            this.dataGridViewTextBoxColumn10.DataPropertyName = "Supp_ContactName";
-            this.dataGridViewTextBoxColumn10.HeaderText = "Contact Name";
-            this.dataGridViewTextBoxColumn10.Name = "dataGridViewTextBoxColumn10";
-            this.dataGridViewTextBoxColumn10.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn11
-            // 
-            this.dataGridViewTextBoxColumn11.DataPropertyName = "Supp_CrdtCondition";
-            this.dataGridViewTextBoxColumn11.HeaderText = "Credit Condition";
-            this.dataGridViewTextBoxColumn11.Name = "dataGridViewTextBoxColumn11";
-            this.dataGridViewTextBoxColumn11.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn12
-            // 
-            this.dataGridViewTextBoxColumn12.DataPropertyName = "Supp_Transport";
-            this.dataGridViewTextBoxColumn12.HeaderText = "Transport Facilities";
-            this.dataGridViewTextBoxColumn12.Name = "dataGridViewTextBoxColumn12";
-            this.dataGridViewTextBoxColumn12.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn13
-            // 
-            this.dataGridViewTextBoxColumn13.DataPropertyName = "Supp_Experience";
-            this.dataGridViewTextBoxColumn13.HeaderText = "Experience";
-            this.dataGridViewTextBoxColumn13.Name = "dataGridViewTextBoxColumn13";
-            this.dataGridViewTextBoxColumn13.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn14
-            // 
-            this.dataGridViewTextBoxColumn14.DataPropertyName = "Supp_RegDate";
-            this.dataGridViewTextBoxColumn14.HeaderText = "Registered Date";
-            this.dataGridViewTextBoxColumn14.Name = "dataGridViewTextBoxColumn14";
-            this.dataGridViewTextBoxColumn14.ReadOnly = true;
-            // 
-            // dtpSEregdt
-            // 
-            this.dtpSEregdt.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpSEregdt.Location = new System.Drawing.Point(132, 180);
-            this.dtpSEregdt.Margin = new System.Windows.Forms.Padding(4);
-            this.dtpSEregdt.Name = "dtpSEregdt";
-            this.dtpSEregdt.Size = new System.Drawing.Size(399, 22);
-            this.dtpSEregdt.TabIndex = 95;
-            // 
-            // txtSEtel
-            // 
-            this.txtSEtel.Location = new System.Drawing.Point(132, 212);
-            this.txtSEtel.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEtel.Name = "txtSEtel";
-            this.txtSEtel.Size = new System.Drawing.Size(399, 22);
-            this.txtSEtel.TabIndex = 80;
-            // 
-            // txtSEexpe
-            // 
-            this.txtSEexpe.Location = new System.Drawing.Point(669, 180);
-            this.txtSEexpe.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEexpe.Multiline = true;
-            this.txtSEexpe.Name = "txtSEexpe";
-            this.txtSEexpe.Size = new System.Drawing.Size(399, 24);
-            this.txtSEexpe.TabIndex = 81;
-            // 
-            // txtSEtransport
-            // 
-            this.txtSEtransport.Location = new System.Drawing.Point(669, 148);
-            this.txtSEtransport.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEtransport.Multiline = true;
-            this.txtSEtransport.Name = "txtSEtransport";
-            this.txtSEtransport.Size = new System.Drawing.Size(399, 24);
-            this.txtSEtransport.TabIndex = 78;
-            // 
-            // txtSEBregno
-            // 
-            this.txtSEBregno.Location = new System.Drawing.Point(132, 148);
-            this.txtSEBregno.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEBregno.Name = "txtSEBregno";
-            this.txtSEBregno.Size = new System.Drawing.Size(399, 22);
-            this.txtSEBregno.TabIndex = 79;
-            // 
-            // txtSEcredit
-            // 
-            this.txtSEcredit.Location = new System.Drawing.Point(669, 116);
-            this.txtSEcredit.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEcredit.Multiline = true;
-            this.txtSEcredit.Name = "txtSEcredit";
-            this.txtSEcredit.Size = new System.Drawing.Size(399, 24);
-            this.txtSEcredit.TabIndex = 76;
-            // 
-            // txtSEBaddress
-            // 
-            this.txtSEBaddress.Location = new System.Drawing.Point(132, 116);
-            this.txtSEBaddress.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEBaddress.Multiline = true;
-            this.txtSEBaddress.Name = "txtSEBaddress";
-            this.txtSEBaddress.Size = new System.Drawing.Size(399, 24);
-            this.txtSEBaddress.TabIndex = 77;
-            // 
-            // label94
-            // 
-            this.label94.AutoSize = true;
-            this.label94.BackColor = System.Drawing.Color.Transparent;
-            this.label94.Location = new System.Drawing.Point(4, 220);
-            this.label94.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(76, 17);
-            this.label94.TabIndex = 90;
-            this.label94.Text = "Telephone";
-            // 
-            // label100
-            // 
-            this.label100.AutoSize = true;
-            this.label100.BackColor = System.Drawing.Color.Transparent;
-            this.label100.Location = new System.Drawing.Point(541, 188);
-            this.label100.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(78, 17);
-            this.label100.TabIndex = 89;
-            this.label100.Text = "Experience";
-            // 
-            // label93
-            // 
-            this.label93.AutoSize = true;
-            this.label93.BackColor = System.Drawing.Color.Transparent;
-            this.label93.Location = new System.Drawing.Point(4, 188);
-            this.label93.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(122, 17);
-            this.label93.TabIndex = 88;
-            this.label93.Text = "Registration Date ";
-            // 
-            // label99
-            // 
-            this.label99.AutoSize = true;
-            this.label99.BackColor = System.Drawing.Color.Transparent;
-            this.label99.Location = new System.Drawing.Point(541, 156);
-            this.label99.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(128, 17);
-            this.label99.TabIndex = 91;
-            this.label99.Text = "Transport Facilities";
-            // 
-            // label92
-            // 
-            this.label92.AutoSize = true;
-            this.label92.BackColor = System.Drawing.Color.Transparent;
-            this.label92.Location = new System.Drawing.Point(4, 156);
-            this.label92.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(106, 17);
-            this.label92.TabIndex = 92;
-            this.label92.Text = "Registration No";
-            // 
-            // label98
-            // 
-            this.label98.AutoSize = true;
-            this.label98.BackColor = System.Drawing.Color.Transparent;
-            this.label98.Location = new System.Drawing.Point(541, 124);
-            this.label98.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(115, 17);
-            this.label98.TabIndex = 93;
-            this.label98.Text = "Credit Conditions";
-            // 
-            // label91
-            // 
-            this.label91.AutoSize = true;
-            this.label91.BackColor = System.Drawing.Color.Transparent;
-            this.label91.Location = new System.Drawing.Point(4, 124);
-            this.label91.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(121, 17);
-            this.label91.TabIndex = 94;
-            this.label91.Text = "Business Address";
-            // 
-            // txtSEcontactname
-            // 
-            this.txtSEcontactname.Location = new System.Drawing.Point(669, 84);
-            this.txtSEcontactname.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEcontactname.Name = "txtSEcontactname";
-            this.txtSEcontactname.Size = new System.Drawing.Size(399, 22);
-            this.txtSEcontactname.TabIndex = 74;
-            // 
-            // txtSEBname
-            // 
-            this.txtSEBname.Location = new System.Drawing.Point(132, 84);
-            this.txtSEBname.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEBname.Name = "txtSEBname";
-            this.txtSEBname.Size = new System.Drawing.Size(399, 22);
-            this.txtSEBname.TabIndex = 75;
-            // 
-            // txtSEemail
-            // 
-            this.txtSEemail.Location = new System.Drawing.Point(669, 52);
-            this.txtSEemail.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEemail.Name = "txtSEemail";
-            this.txtSEemail.Size = new System.Drawing.Size(399, 22);
-            this.txtSEemail.TabIndex = 73;
-            // 
-            // txtSEfax
-            // 
-            this.txtSEfax.Location = new System.Drawing.Point(669, 20);
-            this.txtSEfax.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEfax.Name = "txtSEfax";
-            this.txtSEfax.Size = new System.Drawing.Size(399, 22);
-            this.txtSEfax.TabIndex = 71;
-            // 
-            // txtSEname
-            // 
-            this.txtSEname.Location = new System.Drawing.Point(132, 52);
-            this.txtSEname.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEname.Name = "txtSEname";
-            this.txtSEname.Size = new System.Drawing.Size(399, 22);
-            this.txtSEname.TabIndex = 72;
-            // 
-            // label97
-            // 
-            this.label97.AutoSize = true;
-            this.label97.BackColor = System.Drawing.Color.Transparent;
-            this.label97.Location = new System.Drawing.Point(541, 92);
-            this.label97.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(97, 17);
-            this.label97.TabIndex = 83;
-            this.label97.Text = "Contact Name";
-            // 
-            // txtSEid
-            // 
-            this.txtSEid.Location = new System.Drawing.Point(132, 20);
-            this.txtSEid.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSEid.Name = "txtSEid";
-            this.txtSEid.Size = new System.Drawing.Size(399, 22);
-            this.txtSEid.TabIndex = 70;
-            // 
-            // label96
-            // 
-            this.label96.AutoSize = true;
-            this.label96.BackColor = System.Drawing.Color.Transparent;
-            this.label96.Location = new System.Drawing.Point(541, 60);
-            this.label96.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(47, 17);
-            this.label96.TabIndex = 84;
-            this.label96.Text = "E-mail";
-            // 
-            // label90
-            // 
-            this.label90.AutoSize = true;
-            this.label90.BackColor = System.Drawing.Color.Transparent;
-            this.label90.Location = new System.Drawing.Point(4, 92);
-            this.label90.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label90.Name = "label90";
-            this.label90.Size = new System.Drawing.Size(106, 17);
-            this.label90.TabIndex = 82;
-            this.label90.Text = "Business Name";
-            // 
-            // label95
-            // 
-            this.label95.AutoSize = true;
-            this.label95.BackColor = System.Drawing.Color.Transparent;
-            this.label95.Location = new System.Drawing.Point(541, 28);
-            this.label95.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(30, 17);
-            this.label95.TabIndex = 87;
-            this.label95.Text = "Fax";
-            // 
-            // label89
-            // 
-            this.label89.AutoSize = true;
-            this.label89.BackColor = System.Drawing.Color.Transparent;
-            this.label89.Location = new System.Drawing.Point(4, 60);
-            this.label89.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(45, 17);
-            this.label89.TabIndex = 85;
-            this.label89.Text = "Name";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.BackColor = System.Drawing.Color.Transparent;
-            this.label32.Location = new System.Drawing.Point(4, 28);
-            this.label32.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(77, 17);
-            this.label32.TabIndex = 86;
-            this.label32.Text = "Supplier ID";
-            // 
-            // btnSEld
-            // 
-            this.btnSEld.Location = new System.Drawing.Point(1175, 226);
-            this.btnSEld.Margin = new System.Windows.Forms.Padding(4);
-            this.btnSEld.Name = "btnSEld";
-            this.btnSEld.Size = new System.Drawing.Size(100, 31);
-            this.btnSEld.TabIndex = 69;
-            this.btnSEld.Text = "Load All Data";
-            this.btnSEld.UseVisualStyleBackColor = true;
-            this.btnSEld.Click += new System.EventHandler(this.btnSEld_Click);
-            // 
-            // btnSEsearch
-            // 
-            this.btnSEsearch.Location = new System.Drawing.Point(1077, 20);
-            this.btnSEsearch.Margin = new System.Windows.Forms.Padding(4);
-            this.btnSEsearch.Name = "btnSEsearch";
-            this.btnSEsearch.Size = new System.Drawing.Size(200, 62);
-            this.btnSEsearch.TabIndex = 66;
-            this.btnSEsearch.Text = "Search Supplier";
-            this.btnSEsearch.UseVisualStyleBackColor = true;
-            this.btnSEsearch.Click += new System.EventHandler(this.btnSEsearch_Click);
-            // 
-            // btnSEedit
-            // 
-            this.btnSEedit.Location = new System.Drawing.Point(1077, 158);
-            this.btnSEedit.Margin = new System.Windows.Forms.Padding(4);
-            this.btnSEedit.Name = "btnSEedit";
-            this.btnSEedit.Size = new System.Drawing.Size(200, 62);
-            this.btnSEedit.TabIndex = 67;
-            this.btnSEedit.Text = "Edit Supplier";
-            this.btnSEedit.UseVisualStyleBackColor = true;
-            this.btnSEedit.Click += new System.EventHandler(this.btnSEedit_Click);
-            // 
-            // btnSEclear
-            // 
-            this.btnSEclear.Location = new System.Drawing.Point(1077, 89);
-            this.btnSEclear.Margin = new System.Windows.Forms.Padding(4);
-            this.btnSEclear.Name = "btnSEclear";
-            this.btnSEclear.Size = new System.Drawing.Size(200, 62);
-            this.btnSEclear.TabIndex = 68;
-            this.btnSEclear.Text = "Clear";
-            this.btnSEclear.UseVisualStyleBackColor = true;
-            this.btnSEclear.Click += new System.EventHandler(this.btnSEclear_Click);
-            // 
             // ucleftpnl1
             // 
             this.ucleftpnl1.BackColor = System.Drawing.Color.Transparent;
@@ -1724,15 +1724,15 @@
             this.tbSS.ResumeLayout(false);
             this.tbSS.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSS)).EndInit();
+            this.tbSE.ResumeLayout(false);
+            this.tbSE.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSE)).EndInit();
             this.tbSD.ResumeLayout(false);
             this.tbSD.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSD)).EndInit();
             this.tbSA.ResumeLayout(false);
             this.tbSA.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSA)).EndInit();
-            this.tbSE.ResumeLayout(false);
-            this.tbSE.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvSE)).EndInit();
             this.ResumeLayout(false);
 
         }
