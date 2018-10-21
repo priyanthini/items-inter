@@ -33,5 +33,16 @@ namespace BlueArcSystem.Properties {
                 return ((string)(this["BlueArcDbConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\ItemsDb.mdf;I" +
+            "ntegrated Security=True")]
+        public string ItemsDbConnectionString {
+            get {
+                return ((string)(this["ItemsDbConnectionString"]));
+            }
+        }
     }
 }

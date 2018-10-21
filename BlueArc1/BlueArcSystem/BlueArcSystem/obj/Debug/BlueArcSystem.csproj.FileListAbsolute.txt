@@ -77,10 +77,18 @@ C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\Blue
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
 C:\Users\rvith\OneDrive\Dokumente\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache
-<<<<<<< HEAD
 >>>>>>> 94365ca179cb9ba85a2c96ddb1d6ceb4053dc8d0
-=======
 C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\bin\Debug\BlueArcSystem.exe.config
 C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.exe
 C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.pdb
 >>>>>>> 121e0a1b1fcb4886a97b8e7f2b47dd0d958decd8
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csprojResolveAssemblyReference.cache
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmcustomer.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmlogin.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmmktng.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.fmsupplier.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Item.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.Properties.Resources.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.test.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.ucleftpnl.resources
+C:\Users\Priya\Documents\GitHub\items-inter\BlueArc1\BlueArcSystem\BlueArcSystem\obj\Debug\BlueArcSystem.csproj.GenerateResource.Cache

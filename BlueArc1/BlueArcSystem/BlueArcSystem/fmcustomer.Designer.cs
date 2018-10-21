@@ -160,7 +160,7 @@
             this.TabControl1.Margin = new System.Windows.Forms.Padding(4);
             this.TabControl1.Multiline = true;
             this.TabControl1.Name = "TabControl1";
-            this.TabControl1.SelectedIndex = 3;
+            this.TabControl1.SelectedIndex = 1;
             this.TabControl1.Size = new System.Drawing.Size(1257, 625);
             this.TabControl1.TabIndex = 0;
             // 
